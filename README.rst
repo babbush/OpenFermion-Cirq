@@ -13,6 +13,9 @@ for quantum simulation algorithms.
   :target: https://travis-ci.com/quantumlib/OpenFermion-Cirq
   :alt: Build Status
 
+.. image:: https://coveralls.io/repos/github/quantumlib/OpenFermion-Cirq/badge.svg?branch=master
+    :target: https://coveralls.io/github/quantumlib/OpenFermion-Cirq
+
 .. image:: https://badge.fury.io/py/openfermioncirq.svg
     :target: https://badge.fury.io/py/openfermioncirq
 
